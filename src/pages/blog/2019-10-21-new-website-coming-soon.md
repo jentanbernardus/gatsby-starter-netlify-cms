@@ -3,7 +3,7 @@ templateKey: blog-post
 title: New website coming soon
 date: 2019-10-22T03:11:01.788Z
 description: 'After 5 years break, I''m baaack!'
-featuredpost: true
+featuredpost: false
 featuredimage: /img/products-full-width.jpg
 tags:
   - updates
